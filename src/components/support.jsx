@@ -21,7 +21,7 @@ const Support = (props) => {
             onChange={(event) => handleSupportChange('buyMeACoffee', event)}
           />
         </div>
-        <div className="w-1/2 flex justify-start items-center text-xxs sm:text-lg py-4 pr-2 sm:pr-0">
+        <div className="w-1/2 flex justify-start items-center text-xxs sm:text-lg py-4 pr-2 sm:pr-0 sm:block">
           <img
             src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
             className="w-36 h-8 sm:w-52 sm:h-12 mr-1 sm:mr-4"
