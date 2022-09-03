@@ -65,7 +65,7 @@ const Header = (props) => {
           href="https://github.com/rahuldkjain/github-profile-readme-generator"
           aria-label="Star rahuldkjain/github-profile-readme-generator on GitHub"
           target="blank"
-          className="mr-2"
+          className="mr-4"
         >
           <div className="text-xxs sm:text-sm border-2 border-solid border-gray-900 bg-gray-100 flex items-center justify-center py-1 px-2">
             <StarIcon size={16} id="star-icon" className="px-1 w-6 star" />
